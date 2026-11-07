@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Cinema-Jarvis
+Comment=Folders for the Jarvis film theme
+Inherits=Yaru-blue-dark,Yaru-dark,Yaru,hicolor
+Directories=scalable/places
+
+[scalable/places]
+Context=Places
+Size=64
+MinSize=8
+MaxSize=512
+Type=Scalable

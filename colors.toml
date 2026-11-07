@@ -1,0 +1,44 @@
+mode = "dark"
+
+# Holographic cyan on deep navy, with Iron Man's amber for warmth and warnings.
+accent = "#39c8ff"
+selection = "#123049"
+muted = "#7ea6bf"
+
+background = "#050b14"
+dark_background = "#03070d"
+darker_background = "#020409"
+lighter_background = "#0c1a2b"
+
+foreground = "#eaf8ff"
+dark_foreground = "#9cc9e0"
+light_foreground = "#eaf8ff"
+bright_foreground = "#ffffff"
+
+active_border_color = "#7fe3ff"
+active_tab_background = "#39c8ff"
+hyprland_active_border = "rgba(5fd8ffee) rgba(ffb347cc) 45deg"
+hyprland_inactive_border = "rgba(1d4566aa)"
+
+red = "#ff6a57"
+yellow = "#ffb347"
+orange = "#ff9a3c"
+green = "#5ff2c2"
+cyan = "#7fe3ff"
+blue = "#39a0ff"
+magenta = "#a98bff"
+brown = "#a8743c"
+
+bright_red = "#ff9585"
+bright_yellow = "#ffd08a"
+bright_green = "#a2f8dc"
+bright_cyan = "#b8f1ff"
+bright_blue = "#80c4ff"
+bright_magenta = "#c9b6ff"
+
+# Clearer glass than the 0.85 default: the globe and lattice show through,
+# and muted text keeps 4.9:1 at worst.
+glass = "0.6"
+
+# Reaches furthest (contract.glsl, REACH): its pooled light, exp(-d / 110).
+reach = "800"
